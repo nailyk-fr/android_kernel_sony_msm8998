@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/arm64 4.4.155 Kernel Configuration
+# Linux/arm64 4.4.162 Kernel Configuration
 #
 CONFIG_ARM64=y
 CONFIG_64BIT=y
@@ -195,7 +195,7 @@ CONFIG_TIMERFD=y
 CONFIG_EVENTFD=y
 # CONFIG_BPF_SYSCALL is not set
 CONFIG_SHMEM=y
-# CONFIG_AIO is not set
+CONFIG_AIO=y
 CONFIG_ADVISE_SYSCALLS=y
 # CONFIG_USERFAULTFD is not set
 CONFIG_PCI_QUIRKS=y
